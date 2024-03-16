@@ -17,15 +17,15 @@ last_name: Felton
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: NASA Postdoctoral Management Fellow / Planetary Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: NASA Ames Research Center
+    url: https://www.nasa.gov/space-science-and-astrobiology-at-ames/research-teams/ai-astrobiology/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
